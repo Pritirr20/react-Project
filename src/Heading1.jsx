@@ -17,8 +17,6 @@ const Heading1 = () => {
           <div className='h-30 w-20 border-2 border-black'>Hello</div>
           <div className='h-30 w-20 border-2 border-black'>Hello</div>
           <div className='h-30 w-20 border-2 border-black'>Hello</div>
-          <div className='h-30 w-20 border-2 border-black'>Hello</div>
-          <div className='h-30 w-20 border-2 border-black'>Hello</div>
         </div>
 
 
